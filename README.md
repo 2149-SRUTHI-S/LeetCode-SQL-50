@@ -39,4 +39,9 @@
     <td>Product Sales Analysis I</td>
     <td>https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50</td>
   </tr>
+  </tr>
+  <td>7.</td>
+    <td>Customer Who Visited but Did Not Make Any Transactions</td>
+    <td>https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50</td>
+  </tr>
 </table>
