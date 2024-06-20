@@ -31,4 +31,8 @@
     <td>Invalid Tweets</td>
     <td>https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50</td>
   </tr>
+  <td>6.</td>
+    <td>Replace Employee ID With The Unique Identifier</td>
+    <td>https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50</td>
+  </tr>
 </table>
