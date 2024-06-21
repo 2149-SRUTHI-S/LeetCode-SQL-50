@@ -52,4 +52,8 @@
     <td>Average Time of Process per Machine</td>
     <td>https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50</td>
   </tr>
+  <td>11.</td>
+    <td>Employee Bonus</td>
+    <td>https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50</td>
+  </tr>
 </table>
