@@ -48,4 +48,8 @@
     <td>Rising Temperature</td>
     <td>https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50</td>
   </tr>
+  <td>10.</td>
+    <td>Average Time of Process per Machine</td>
+    <td>https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50</td>
+  </tr>
 </table>
