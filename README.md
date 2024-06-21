@@ -44,4 +44,8 @@
     <td>Customer Who Visited but Did Not Make Any Transactions</td>
     <td>https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50</td>
   </tr>
+  <td>9.</td>
+    <td>Rising Temperature</td>
+    <td>https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50</td>
+  </tr>
 </table>
